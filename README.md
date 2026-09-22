@@ -203,18 +203,21 @@ Countries included:
 ### 2. 7-Day Moving Average of New Cases
 
 Shows the smoothed daily COVID-19 case trends and reduces the effect of daily fluctuations.
+<img width="1400" height="700" alt="Figure_2" src="https://github.com/user-attachments/assets/84a30f0c-f68d-4f0f-9d07-b85ee7408b6e" />
 
 ---
 
 ### 3. Top 10 Countries by Total Cases
 
 A horizontal bar chart showing the countries with the highest reported cumulative COVID-19 cases.
+<img width="1200" height="600" alt="Figur3" src="https://github.com/user-attachments/assets/634a2d50-987a-4cd2-8953-5897f2a7fd53" />
 
 ---
 
 ### 4. Top 10 Countries by Total Deaths
 
 A horizontal bar chart showing the countries with the highest reported cumulative COVID-19 deaths.
+<img width="1200" height="700" alt="Figure_4" src="https://github.com/user-attachments/assets/e4966a12-9b4a-479f-b50e-f67e9e4f190d" />
 
 ---
 
@@ -230,12 +233,14 @@ The correlation analysis examines relationships between selected variables such 
 * Median Age
 
 The heatmap is created using **Matplotlib**, without Seaborn.
+<img width="612" height="744" alt="Figure_5png" src="https://github.com/user-attachments/assets/1b6cfced-910d-4733-a8a6-2f1f3d42231b" />
 
 ---
 
 ### 6. Total Cases per Million by Continent
 
 A box plot is used to compare the distribution of total COVID-19 cases per million population across continents.
+<img width="1536" height="752" alt="Figure_6" src="https://github.com/user-attachments/assets/9595549a-4196-4a34-8fd2-ed8be6b2485c" />
 
 ---
 
@@ -243,13 +248,7 @@ A box plot is used to compare the distribution of total COVID-19 cases per milli
 
 All six visualizations are combined into a single Matplotlib dashboard.
 
-```text
-┌─────────────────────────┬─────────────────────────┬─────────────────────────┐
-│ Total Cases Over Time   │ 7-Day Moving Average    │ Top 10 Cases             │
-├─────────────────────────┼─────────────────────────┼─────────────────────────┤
-│ Top 10 Deaths           │ Correlation Heatmap     │ Cases per Million       │
-└─────────────────────────┴─────────────────────────┴─────────────────────────┘
-```
+<img width="766" height="744" alt="Figure_7" src="https://github.com/user-attachments/assets/cb15d9ad-9611-4fd9-8a60-77bc46e9c2f0" />
 
 ---
 
